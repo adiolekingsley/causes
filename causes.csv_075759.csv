@@ -1,0 +1,17 @@
+SN,Variables,Description,Value,Type
+1,Type of Vehicle,Small Car,A,Categorical
+,,Heavy Car,B,Categorical
+2,Time of Accident,Morning,A,Categorical
+,,Afternoon,B,Categorical
+,,Evening,C,Categorical
+3,Causes of Accident,Overspeed,A,Categorical
+,,Loss of Control,B,Categorical
+,,Wrong Overtaking,C,Categorical
+,,Tyre Blowouts,D,Categorical
+,,Poor Lights,E,Categorical
+,,Uncertain Cause,F,Categorical
+,,Brake Failure,G,Categorical
+4,Location of Accident,Location A,A,Categorical
+,,Location B,B,Categorical
+,,Location C,C,Categorical
+,,Location D,D,Categorical
